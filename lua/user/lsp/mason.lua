@@ -4,8 +4,10 @@ local servers = {
 	-- "html",
 	-- "tsserver",
 	"pyright",
+  "djlint",
 	-- "bashls",
 	"jsonls",
+  "gopls",
 	-- "yamlls",
 }
 
